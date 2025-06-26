@@ -1,6 +1,6 @@
 ---
 title: "ProjetM2"
-description: "Le projet tutoré de M1 de SSD"
+description: "Le projet tutoré de M2 de SSD"
 ---
 
 
