@@ -13,16 +13,16 @@ taxonomies:
 menu:
     main:
         - name: ProjetM1
-          url: ProjetM1/
+          url: projetM1/
           weight: 5 
         - name: StageM1
-          url: StageM1/
+          url: stageM1/
           weight: 2
         - name: ProjetM2
-          url: ProjetM2/
+          url: projetM2/
           weight: 3
         - name: StageM2
-          url: StageM2/
+          url: stageM2/
           weight: 4 
         - name: Blog
           url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
@@ -61,13 +61,13 @@ params:
           imageHeight: 160
           buttons:
             - name: Projet tutoré  de M1
-              url: ProjetM1/
+              url: projetM1/
             - name: Stage de M1
-              url: StageM1/
+              url: stageM1/
             - name: Projet tutoré de M2
-              url: ProjetM2/
+              url: projetM2/
             - name: Stage de M2
-              url: StageM2/
+              url: stageM2/
             - name: Tags
               url: 
             - name: Archive
