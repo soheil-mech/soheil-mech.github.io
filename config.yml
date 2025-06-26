@@ -80,9 +80,24 @@ params:
           url: cv.pdf
         - name: Email
           url: mailto:soheil.mecheloukh@orange.fr
+        - name: Zoom
+          url: 
+        - name: Location
+          url: location/
+        - name: Office Hours
+          url: officehours/
+        - name: Google Scholar
+          url: 
         - name: GitHub
           url: https://github.com/soheil-mech
-        
+        - name: Substack
+          url: 
+        - name: YouTube
+          url: 
+        - name: Twitter
+          url: 
+        - name: Bluesky
+          url: 
 
     assets:
         disableScrollBarStyle: true
