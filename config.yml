@@ -19,7 +19,7 @@ menu:
           url: stageM1/
           weight: 2
         - name: ProjetM2
-          url: projetM2/
+          url: projetm2/
           weight: 3
         - name: StageM2
           url: stageM2/
