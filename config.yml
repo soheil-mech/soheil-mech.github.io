@@ -81,13 +81,13 @@ params:
         - name: Email
           url: mailto:soheil.mecheloukh@orange.fr
         - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
+          url: 
         - name: Location
           url: location/
         - name: Office Hours
           url: officehours/
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+          url: 
         - name: GitHub
           url: https://github.com/soheil-mech
         - name: Substack
