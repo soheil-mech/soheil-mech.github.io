@@ -16,7 +16,7 @@ menu:
           url: projetM1/
           weight: 5 
         - name: StageM1
-          url: stageM1/
+          url: stagem1/
           weight: 2
         - name: ProjetM2
           url: projetm2/
@@ -63,7 +63,7 @@ params:
             - name: Projet tutoré  de M1
               url: projetM1/
             - name: Stage de M1
-              url: stageM1/
+              url: stagem1/
             - name: Projet tutoré de M2
               url: projetm2/
             - name: Stage de M2
