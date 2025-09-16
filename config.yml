@@ -67,7 +67,7 @@ params:
             - name: Projet tutoré de M2
               url: projetm2/
             - name: Stage de M2
-              url: stageM2/
+              url: stagem2/
             - name: Tags
               url: 
             - name: Archive
