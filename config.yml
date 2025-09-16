@@ -22,7 +22,7 @@ menu:
           url: projetm2/
           weight: 3
         - name: StageM2
-          url: stageM2/
+          url: stagem2/
           weight: 4 
         - name: Blog
           url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
